@@ -2,8 +2,10 @@
 <http://www.rusbandy.ru/>
 #### это командная зимняя игра на ледовой арене, где две команды пытаются забить мяч в ворота соперника, используя клюшки. В отличие от хоккея с шайбой, в этой игре более просторная площадка,похожая на футбольную, в каждой команде по 11 игроков (10 полевых и 1 вратарь), а сама игра требует более глубокого тактического подхода и почти не имеет грубой силовой борьбы. 
 <p align="center">
-  <img width="400" height="250" src="[https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVRM3n9qFVJ_afGHEB0EH6eSMqyuv5OlwCxw&s)">
+  <img width="400" height="250" src="![Uploading image.png…]()
+">
 </p>
+
 
 
 
